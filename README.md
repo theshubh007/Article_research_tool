@@ -29,10 +29,9 @@ Article_research_tool
 
 ```bash
 streamlit run main.py
-
 ```
 
-2.The web app will open in your browser.
+2. The web app will open in your browser.
 
 - On the sidebar, you can input URLs directly.
 
